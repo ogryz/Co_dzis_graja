@@ -23,7 +23,7 @@ Jeżeli nie posiadamy konta, w prawym górnym rogu strony znajduje sie przycisk 
 
 Po przejściu rejestracji, widać pola które wymgają wpisania adresu E-mail i hasła do konta.
 
-![rejestracja](co_dzis_graja_rejestracja.png]
+![rejestracja](co_dzis_graja_rejestracja.png)
 
 ## Strona początkowa aplikacji po zalogowaniu
 
