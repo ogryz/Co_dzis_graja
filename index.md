@@ -56,14 +56,14 @@ Zrzut okazuje bazę obejrzanych przez użytkownika filmów i ich ocenę
 Aktywny link do zgłoszenia projektu (link do postu, w którym projekt został zgłoszony)
 https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=129539
 
-Aktywny link do wykonanej aplikacji na serwerze Wizard
+Link wykonanej aplikacji na serwerze Wizard
 https://gravoos.github.io
 
-Aktywny link do repozytorium projektu na GitHub
+Link repozytorium projektu na GitHub
 https://github.com/Gravoos/Gravoos.github.io
 
-Aktywny link do witryny internetowej projektu na GitHub
-ogryz.github.io/Co_dzis_graja/
+Link witryny internetowej projektu na GitHub
+https://ogryz.github.io/Co_dzis_graja/
 
-Aktywny link do zarządzania projektem informatycznym na GitHub
+Link zarządzania projektem informatycznym na GitHub
 https://github.com/Gravoos/Gravoos.github.io/projects/1
