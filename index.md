@@ -4,7 +4,7 @@ Aplikacja Co dzis grają powstała w ramach przedmiotu Bogate Aplikacje Internet
 
 ### Co dzis grają?
 
-Aplikacja umożliwia kinomanowi sprawdzenie repeturaru najbliższych kin w jego położeniu.
+Aplikacja umożliwia kinomanowi sprawdzenie lokalizacji najbliższych kin oraz ocenę filmów.
 Program jest obsługiwany przez przeglądarki internetowe na komputerach osobistych oraz urządzaniach mobilnych.
 
 W aplikacji jest możliwość stworzenie konta.
