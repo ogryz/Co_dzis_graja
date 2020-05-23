@@ -53,17 +53,12 @@ Zrzut okazuje bazę obejrzanych przez użytkownika filmów i ich ocenę
 ![opis](images/cdg_moviebase.png)
 
 ## Składowe projektu
-Aktywny link do zgłoszenia projektu (link do postu, w którym projekt został zgłoszony)
-https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=129539
+[Aktywny link do zgłoszenia projektu (link do postu, w którym projekt został zgłoszony)](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=129539)
 
-Link wykonanej aplikacji na serwerze Wizard
-https://gravoos.github.io
+[Link wykonanej aplikacji na serwerze Wizard](https://gravoos.github.io)
 
-Link repozytorium projektu na GitHub
-https://github.com/Gravoos/Gravoos.github.io
+[Link repozytorium projektu na GitHub](https://github.com/Gravoos/Gravoos.github.io)
 
-Link witryny internetowej projektu na GitHub
-https://ogryz.github.io/Co_dzis_graja/
+[Link witryny internetowej projektu na GitHub](https://ogryz.github.io/Co_dzis_graja/)
 
-Link zarządzania projektem informatycznym na GitHub
-https://github.com/Gravoos/Gravoos.github.io/projects/1
+[Link zarządzania projektem informatycznym na GitHub](https://github.com/Gravoos/Gravoos.github.io/projects/1)
