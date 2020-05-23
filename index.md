@@ -7,7 +7,7 @@ Aplikacja Co dzis grają powstała w ramach przedmiotu Bogate Aplikacje Internet
 Aplikacja umożliwia kinomanowi sprawdzenie repeturaru najbliższych kin w jego położeniu.
 Program jest obsługiwany przez przeglądarki internetowe na komputerach osobistych oraz urządzaniach mobilnych.
 
-W aplikacji jest możliwość stworzenie konta
+W aplikacji jest możliwość stworzenie konta.
 Do poprawnego działania wymagane jest udostępnienie Lokalizacji.
 
 Aplikacja powstwała z wykorzystaniem technologii html, css, JavaScript, Vue.js oraz API, który pozwala zdobyć repertuar kin.
@@ -21,7 +21,7 @@ Jeżeli nie posiadamy konta, w prawym górnym rogu strony znajduje sie przycisk 
 
 ## Okno rejestracji
 
-Po przejściu rejestracji, widać pola które wymgają wpisania adresu E-mail i hasła do konta.
+Po przejściu rejestracji, widać pola które wymagają wpisania adresu e-mail i hasła do konta.
 
 ![rejestracja](images/cdg_registration.png)
 
@@ -49,5 +49,5 @@ Na screenie pokazane jest strona dodawania oceny o filmie
 
 ## Baza filmów
 
-Zrzut okazuje baze oglądnietych przez użytkownika filmów i ich ocenę
+Zrzut okazuje bazę obejrzanych przez użytkownika filmów i ich ocenę
 ![opis](images/cdg_moviebase.png)
