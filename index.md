@@ -23,7 +23,7 @@ Jeżeli nie posiadamy konta, w prawym górnym rogu strony znajduje sie przycisk 
 
 Po przejściu rejestracji, widać pola które wymgają wpisania adresu E-mail i hasła do konta.
 
-![rejestracja](cdg_registration.png)
+![rejestracja](images/cdg_registration.png)
 
 ## Strona początkowa aplikacji po zalogowaniu
 
